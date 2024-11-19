@@ -5,3 +5,4 @@ numpy==1.26.0
 pytesseract==0.3.10
 pillow==9.5.0
 keyboard
+Pillow
