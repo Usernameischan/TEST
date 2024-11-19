@@ -1,0 +1,121 @@
+[
+  {
+    "name": "5단계1",
+    "method": "win32",
+    "properties": {},
+    "test_result": false,
+    "timestamp": "2024-11-18 18:44:21"
+  },
+  {
+    "name": "5단계2",
+    "method": "win32",
+    "properties": {},
+    "test_result": false,
+    "timestamp": "2024-11-18 18:44:31"
+  },
+  {
+    "name": "10단계",
+    "method": "win32",
+    "properties": {},
+    "test_result": false,
+    "timestamp": "2024-11-18 18:44:41"
+  },
+  {
+    "name": "기업",
+    "method": "win32",
+    "properties": {},
+    "test_result": false,
+    "timestamp": "2024-11-18 18:44:51"
+  },
+  {
+    "name": "뉴스",
+    "method": "win32",
+    "properties": {},
+    "test_result": false,
+    "timestamp": "2024-11-18 18:45:01"
+  },
+  {
+    "name": "Tick",
+    "method": "win32",
+    "properties": {},
+    "test_result": false,
+    "timestamp": "2024-11-18 18:45:11"
+  },
+  {
+    "name": "회원사",
+    "method": "win32",
+    "properties": {},
+    "test_result": false,
+    "timestamp": "2024-11-18 18:45:21"
+  },
+  {
+    "name": "PR",
+    "method": "win32",
+    "properties": {},
+    "test_result": false,
+    "timestamp": "2024-11-18 18:45:31"
+  },
+  {
+    "name": "가격대",
+    "method": "win32",
+    "properties": {},
+    "test_result": false,
+    "timestamp": "2024-11-18 18:45:41"
+  },
+  {
+    "name": "투자자",
+    "method": "win32",
+    "properties": {},
+    "test_result": false,
+    "timestamp": "2024-11-18 18:45:51"
+  },
+  {
+    "name": "외인",
+    "method": "win32",
+    "properties": {},
+    "test_result": false,
+    "timestamp": "2024-11-18 18:46:01"
+  },
+  {
+    "name": "News",
+    "method": "win32",
+    "properties": {},
+    "test_result": false,
+    "timestamp": "2024-11-18 18:46:11"
+  },
+  {
+    "name": "공식",
+    "method": "win32",
+    "properties": {},
+    "test_result": false,
+    "timestamp": "2024-11-18 18:46:21"
+  },
+  {
+    "name": "경쟁사",
+    "method": "win32",
+    "properties": {},
+    "test_result": false,
+    "timestamp": "2024-11-18 18:46:31"
+  },
+  {
+    "name": "ELW",
+    "method": "win32",
+    "properties": {},
+    "test_result": false,
+    "timestamp": "2024-11-18 18:46:42"
+  },
+  {
+    "name": "선물",
+    "method": "win32",
+    "properties": {},
+    "test_result": false,
+    "timestamp": "2024-11-18 18:46:52"
+  },
+  {
+    "name": "CFD",
+    "method": "win32",
+    "properties": {},
+    "test_result": false,
+    "timestamp": "2024-11-18 18:47:02"
+  }
+]

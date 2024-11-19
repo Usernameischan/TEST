@@ -1,0 +1,69 @@
+2024-11-18 18:44:10,948 - INFO - 모든 연결 초기화 완료
+2024-11-18 18:44:10,949 - DEBUG - UIA 검색 실패 - 5단계1: 'WindowControl' object has no attribute 'FindControl'
+2024-11-18 18:44:10,950 - INFO - 컨트롤 '5단계1' win32 방식으로 찾음
+2024-11-18 18:44:16,000 - ERROR - 속성 수집 실패: {'title': '5단계1', 'top_level_only': False, 'parent': <win32_element_info.HwndElementInfo - 'FORM Designer', FormDesignerClassName, 9571666>, 'backend': 'win32'}
+2024-11-18 18:44:21,036 - ERROR - 컨트롤 테스트 실패: {'title': '5단계1', 'top_level_only': False, 'parent': <win32_element_info.HwndElementInfo - 'FORM Designer', FormDesignerClassName, 9571666>, 'backend': 'win32'}
+2024-11-18 18:44:21,038 - DEBUG - UIA 검색 실패 - 5단계2: 'WindowControl' object has no attribute 'FindControl'
+2024-11-18 18:44:21,038 - INFO - 컨트롤 '5단계2' win32 방식으로 찾음
+2024-11-18 18:44:26,086 - ERROR - 속성 수집 실패: {'title': '5단계2', 'top_level_only': False, 'parent': <win32_element_info.HwndElementInfo - 'FORM Designer', FormDesignerClassName, 9571666>, 'backend': 'win32'}
+2024-11-18 18:44:31,145 - ERROR - 컨트롤 테스트 실패: {'title': '5단계2', 'top_level_only': False, 'parent': <win32_element_info.HwndElementInfo - 'FORM Designer', FormDesignerClassName, 9571666>, 'backend': 'win32'}
+2024-11-18 18:44:31,145 - DEBUG - UIA 검색 실패 - 10단계: 'WindowControl' object has no attribute 'FindControl'
+2024-11-18 18:44:31,145 - INFO - 컨트롤 '10단계' win32 방식으로 찾음
+2024-11-18 18:44:36,181 - ERROR - 속성 수집 실패: {'title': '10단계', 'top_level_only': False, 'parent': <win32_element_info.HwndElementInfo - 'FORM Designer', FormDesignerClassName, 9571666>, 'backend': 'win32'}
+2024-11-18 18:44:41,203 - ERROR - 컨트롤 테스트 실패: {'title': '10단계', 'top_level_only': False, 'parent': <win32_element_info.HwndElementInfo - 'FORM Designer', FormDesignerClassName, 9571666>, 'backend': 'win32'}
+2024-11-18 18:44:41,203 - DEBUG - UIA 검색 실패 - 기업: 'WindowControl' object has no attribute 'FindControl'
+2024-11-18 18:44:41,203 - INFO - 컨트롤 '기업' win32 방식으로 찾음
+2024-11-18 18:44:46,246 - ERROR - 속성 수집 실패: {'title': '기업', 'top_level_only': False, 'parent': <win32_element_info.HwndElementInfo - 'FORM Designer', FormDesignerClassName, 9571666>, 'backend': 'win32'}
+2024-11-18 18:44:51,260 - ERROR - 컨트롤 테스트 실패: {'title': '기업', 'top_level_only': False, 'parent': <win32_element_info.HwndElementInfo - 'FORM Designer', FormDesignerClassName, 9571666>, 'backend': 'win32'}
+2024-11-18 18:44:51,261 - DEBUG - UIA 검색 실패 - 뉴스: 'WindowControl' object has no attribute 'FindControl'
+2024-11-18 18:44:51,261 - INFO - 컨트롤 '뉴스' win32 방식으로 찾음
+2024-11-18 18:44:56,279 - ERROR - 속성 수집 실패: {'title': '뉴스', 'top_level_only': False, 'parent': <win32_element_info.HwndElementInfo - 'FORM Designer', FormDesignerClassName, 9571666>, 'backend': 'win32'}
+2024-11-18 18:45:01,331 - ERROR - 컨트롤 테스트 실패: {'title': '뉴스', 'top_level_only': False, 'parent': <win32_element_info.HwndElementInfo - 'FORM Designer', FormDesignerClassName, 9571666>, 'backend': 'win32'}
+2024-11-18 18:45:01,331 - DEBUG - UIA 검색 실패 - Tick: 'WindowControl' object has no attribute 'FindControl'
+2024-11-18 18:45:01,332 - INFO - 컨트롤 'Tick' win32 방식으로 찾음
+2024-11-18 18:45:06,377 - ERROR - 속성 수집 실패: {'title': 'Tick', 'top_level_only': False, 'parent': <win32_element_info.HwndElementInfo - 'FORM Designer', FormDesignerClassName, 9571666>, 'backend': 'win32'}
+2024-11-18 18:45:11,418 - ERROR - 컨트롤 테스트 실패: {'title': 'Tick', 'top_level_only': False, 'parent': <win32_element_info.HwndElementInfo - 'FORM Designer', FormDesignerClassName, 9571666>, 'backend': 'win32'}
+2024-11-18 18:45:11,418 - DEBUG - UIA 검색 실패 - 회원사: 'WindowControl' object has no attribute 'FindControl'
+2024-11-18 18:45:11,419 - INFO - 컨트롤 '회원사' win32 방식으로 찾음
+2024-11-18 18:45:16,465 - ERROR - 속성 수집 실패: {'title': '회원사', 'top_level_only': False, 'parent': <win32_element_info.HwndElementInfo - 'FORM Designer', FormDesignerClassName, 9571666>, 'backend': 'win32'}
+2024-11-18 18:45:21,507 - ERROR - 컨트롤 테스트 실패: {'title': '회원사', 'top_level_only': False, 'parent': <win32_element_info.HwndElementInfo - 'FORM Designer', FormDesignerClassName, 9571666>, 'backend': 'win32'}
+2024-11-18 18:45:21,507 - DEBUG - UIA 검색 실패 - PR: 'WindowControl' object has no attribute 'FindControl'
+2024-11-18 18:45:21,507 - INFO - 컨트롤 'PR' win32 방식으로 찾음
+2024-11-18 18:45:26,516 - ERROR - 속성 수집 실패: {'title': 'PR', 'top_level_only': False, 'parent': <win32_element_info.HwndElementInfo - 'FORM Designer', FormDesignerClassName, 9571666>, 'backend': 'win32'}
+2024-11-18 18:45:31,564 - ERROR - 컨트롤 테스트 실패: {'title': 'PR', 'top_level_only': False, 'parent': <win32_element_info.HwndElementInfo - 'FORM Designer', FormDesignerClassName, 9571666>, 'backend': 'win32'}
+2024-11-18 18:45:31,564 - DEBUG - UIA 검색 실패 - 가격대: 'WindowControl' object has no attribute 'FindControl'
+2024-11-18 18:45:31,564 - INFO - 컨트롤 '가격대' win32 방식으로 찾음
+2024-11-18 18:45:36,607 - ERROR - 속성 수집 실패: {'title': '가격대', 'top_level_only': False, 'parent': <win32_element_info.HwndElementInfo - 'FORM Designer', FormDesignerClassName, 9571666>, 'backend': 'win32'}
+2024-11-18 18:45:41,629 - ERROR - 컨트롤 테스트 실패: {'title': '가격대', 'top_level_only': False, 'parent': <win32_element_info.HwndElementInfo - 'FORM Designer', FormDesignerClassName, 9571666>, 'backend': 'win32'}
+2024-11-18 18:45:41,629 - DEBUG - UIA 검색 실패 - 투자자: 'WindowControl' object has no attribute 'FindControl'
+2024-11-18 18:45:41,630 - INFO - 컨트롤 '투자자' win32 방식으로 찾음
+2024-11-18 18:45:46,651 - ERROR - 속성 수집 실패: {'title': '투자자', 'top_level_only': False, 'parent': <win32_element_info.HwndElementInfo - 'FORM Designer', FormDesignerClassName, 9571666>, 'backend': 'win32'}
+2024-11-18 18:45:51,680 - ERROR - 컨트롤 테스트 실패: {'title': '투자자', 'top_level_only': False, 'parent': <win32_element_info.HwndElementInfo - 'FORM Designer', FormDesignerClassName, 9571666>, 'backend': 'win32'}
+2024-11-18 18:45:51,680 - DEBUG - UIA 검색 실패 - 외인: 'WindowControl' object has no attribute 'FindControl'
+2024-11-18 18:45:51,680 - INFO - 컨트롤 '외인' win32 방식으로 찾음
+2024-11-18 18:45:56,709 - ERROR - 속성 수집 실패: {'title': '외인', 'top_level_only': False, 'parent': <win32_element_info.HwndElementInfo - 'FORM Designer', FormDesignerClassName, 9571666>, 'backend': 'win32'}
+2024-11-18 18:46:01,763 - ERROR - 컨트롤 테스트 실패: {'title': '외인', 'top_level_only': False, 'parent': <win32_element_info.HwndElementInfo - 'FORM Designer', FormDesignerClassName, 9571666>, 'backend': 'win32'}
+2024-11-18 18:46:01,763 - DEBUG - UIA 검색 실패 - News: 'WindowControl' object has no attribute 'FindControl'
+2024-11-18 18:46:01,764 - INFO - 컨트롤 'News' win32 방식으로 찾음
+2024-11-18 18:46:06,803 - ERROR - 속성 수집 실패: {'title': 'News', 'top_level_only': False, 'parent': <win32_element_info.HwndElementInfo - 'FORM Designer', FormDesignerClassName, 9571666>, 'backend': 'win32'}
+2024-11-18 18:46:11,843 - ERROR - 컨트롤 테스트 실패: {'title': 'News', 'top_level_only': False, 'parent': <win32_element_info.HwndElementInfo - 'FORM Designer', FormDesignerClassName, 9571666>, 'backend': 'win32'}
+2024-11-18 18:46:11,844 - DEBUG - UIA 검색 실패 - 공식: 'WindowControl' object has no attribute 'FindControl'
+2024-11-18 18:46:11,844 - INFO - 컨트롤 '공식' win32 방식으로 찾음
+2024-11-18 18:46:16,884 - ERROR - 속성 수집 실패: {'title': '공식', 'top_level_only': False, 'parent': <win32_element_info.HwndElementInfo - 'FORM Designer', FormDesignerClassName, 9571666>, 'backend': 'win32'}
+2024-11-18 18:46:21,909 - ERROR - 컨트롤 테스트 실패: {'title': '공식', 'top_level_only': False, 'parent': <win32_element_info.HwndElementInfo - 'FORM Designer', FormDesignerClassName, 9571666>, 'backend': 'win32'}
+2024-11-18 18:46:21,909 - DEBUG - UIA 검색 실패 - 경쟁사: 'WindowControl' object has no attribute 'FindControl'
+2024-11-18 18:46:21,910 - INFO - 컨트롤 '경쟁사' win32 방식으로 찾음
+2024-11-18 18:46:26,946 - ERROR - 속성 수집 실패: {'title': '경쟁사', 'top_level_only': False, 'parent': <win32_element_info.HwndElementInfo - 'FORM Designer', FormDesignerClassName, 9571666>, 'backend': 'win32'}
+2024-11-18 18:46:31,977 - ERROR - 컨트롤 테스트 실패: {'title': '경쟁사', 'top_level_only': False, 'parent': <win32_element_info.HwndElementInfo - 'FORM Designer', FormDesignerClassName, 9571666>, 'backend': 'win32'}
+2024-11-18 18:46:31,977 - DEBUG - UIA 검색 실패 - ELW: 'WindowControl' object has no attribute 'FindControl'
+2024-11-18 18:46:31,978 - INFO - 컨트롤 'ELW' win32 방식으로 찾음
+2024-11-18 18:46:37,019 - ERROR - 속성 수집 실패: {'title': 'ELW', 'top_level_only': False, 'parent': <win32_element_info.HwndElementInfo - 'FORM Designer', FormDesignerClassName, 9571666>, 'backend': 'win32'}
+2024-11-18 18:46:42,059 - ERROR - 컨트롤 테스트 실패: {'title': 'ELW', 'top_level_only': False, 'parent': <win32_element_info.HwndElementInfo - 'FORM Designer', FormDesignerClassName, 9571666>, 'backend': 'win32'}
+2024-11-18 18:46:42,059 - DEBUG - UIA 검색 실패 - 선물: 'WindowControl' object has no attribute 'FindControl'
+2024-11-18 18:46:42,060 - INFO - 컨트롤 '선물' win32 방식으로 찾음
+2024-11-18 18:46:47,106 - ERROR - 속성 수집 실패: {'title': '선물', 'top_level_only': False, 'parent': <win32_element_info.HwndElementInfo - 'FORM Designer', FormDesignerClassName, 9571666>, 'backend': 'win32'}
+2024-11-18 18:46:52,145 - ERROR - 컨트롤 테스트 실패: {'title': '선물', 'top_level_only': False, 'parent': <win32_element_info.HwndElementInfo - 'FORM Designer', FormDesignerClassName, 9571666>, 'backend': 'win32'}
+2024-11-18 18:46:52,145 - DEBUG - UIA 검색 실패 - CFD: 'WindowControl' object has no attribute 'FindControl'
+2024-11-18 18:46:52,146 - INFO - 컨트롤 'CFD' win32 방식으로 찾음
+2024-11-18 18:46:57,164 - ERROR - 속성 수집 실패: {'title': 'CFD', 'top_level_only': False, 'parent': <win32_element_info.HwndElementInfo - 'FORM Designer', FormDesignerClassName, 9571666>, 'backend': 'win32'}
+2024-11-18 18:47:02,226 - ERROR - 컨트롤 테스트 실패: {'title': 'CFD', 'top_level_only': False, 'parent': <win32_element_info.HwndElementInfo - 'FORM Designer', FormDesignerClassName, 9571666>, 'backend': 'win32'}

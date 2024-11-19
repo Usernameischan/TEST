@@ -1,0 +1,6 @@
+{
+    "click_delay": 0.5,
+    "max_retries": 3,
+    "retry_delay": 1.0,
+    "move_speed": 0.2
+}
